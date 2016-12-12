@@ -1,3 +1,9 @@
 1 
 ||| 
-Test page colours and sizes , is it working
+Welcome to the GADGET WIZARD Build.
+
+Here you will be notified of any build updates!
+The current build is shown below.
+
+                               CURRENT BUILD NUMBER IS 1.0.0
+                              NO UPDATE REQUIRED AT THIS TIME
