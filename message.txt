@@ -1,9 +1,16 @@
 1 
 ||| 
-Welcome to the GADGET WIZARD Build.
+1 
+||| 
+[B][COLOR green]THIS IS THE GADGET TV BUILDS NOTIFICATION PAGE![/COLOR][/B]                                                       
+[COLOR white]HERE YOU WILL BE NOTIFIED OF ANY UPDATES FOR THE CURRENT BUILD[/COLOR]
+YOU MAY BE ASKED TO DO A FULL (RE-INSTALL) OF YOUR BUILD, FOLLOW THE INSTRUCTIONS 
+ON THE SET UP TAB-SUB MENU ([B][COLOR red]BUILD VERSION[/COLOR][/B]  ?.?.?)
 
-Here you will be notified of any build updates!
-The current build is shown below.
-
-                          [B][COLOR red]CURRENT BUILD NUMBER IS[/COLOR][/B] 1.0.0
-                            [COLOR green]NO UPDATE REQUIRED AT THIS TIME[/COLOR]
+IF THE BUILD VERSION BELOW IS DIFFERENT FROM THE ONE ON YOUR BOX THEN UPDATE THE 
+BUILD AS SHOWN.          [B][COLOR red]THE CURRENT VERSION IS[/COLOR][/B]  1.0.0
+                                    
+                                                    
+                                                     
+Find more info at http:[B][COLOR red]//www.kodigadget.co.uk[/COLOR][/B]
+[B]THANK YOU.[/B]
