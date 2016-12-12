@@ -5,5 +5,5 @@ Welcome to the GADGET WIZARD Build.
 Here you will be notified of any build updates!
 The current build is shown below.
 
-                               CURRENT BUILD NUMBER IS 1.0.0
-                              NO UPDATE REQUIRED AT THIS TIME
+                          [B][COLOR red]CURRENT BUILD NUMBER IS[/COLOR][/B] 1.0.0
+                            [COLOR green]NO UPDATE REQUIRED AT THIS TIME[/COLOR]
